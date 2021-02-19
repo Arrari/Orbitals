@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Gforse : MonoBehaviour
+public class GForce : MonoBehaviour
 {
     private float d;
     private float G = 3;
